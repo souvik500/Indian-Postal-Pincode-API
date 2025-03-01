@@ -100,3 +100,5 @@ Also handle errors accordingly- ie - if the postal code is not 6 digits then don
 While the API is fetching data, please also show a loader of your choice. You can use a library for a loader or make a custom-css-loader. Show the loader till the data is fetching, once fetched don’t show the loader again. The filtering should happen real time and no loader is needed for that.
 
 `API endpoint` - https://api.postalpincode.in/pincode/${pincode}
+
+### `Teck Stack`
