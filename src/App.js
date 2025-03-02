@@ -1,6 +1,6 @@
 // Dependencies
 import React from "react";
-import PincodeLookup from "./components/PincodeLookup";
+import PincodeLookupN from "./components/PincodeLookupN";
 
 // Styles
 import "./tailwind.output.css";
@@ -8,7 +8,7 @@ import "./tailwind.output.css";
 const App = () => {
   return (
     <div className="min-h-screen bg-gray-500">
-      <PincodeLookup />
+      <PincodeLookupN />
     </div>
   );
 };
